@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="./framer-motion.webp" />
+  <img src="./framer-motion .webp" />
 </div>
 
 # Mastering Animations with **Framer Motion**: A Step-by-Step Guide for Beginners
